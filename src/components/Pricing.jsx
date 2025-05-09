@@ -1,3 +1,4 @@
+import Link from "../common/Buttons/Link";
 import TickList from "../common/Lists/TickList";
 import prices from "../data/prices.json";
 import TickIcon from "../svg/TickIcon";
@@ -40,12 +41,7 @@ export default function Pricing() {
                   </TickList>
                 ))}
               </ul>
-              <a
-                href="#"
-                className="text-white bg-purple-600 hover:bg-purple-700 focus:ring-4 focus:ring-purple-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white dark:focus:ring-purple-900"
-              >
-                Get started
-              </a>
+              <Link text="Get started" />
             </div>
           ))}
         </div>
