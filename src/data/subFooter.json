@@ -1,0 +1,46 @@
+[
+    {
+      "title": "Company",
+      "links": [
+        { "label": "About", "url": "#" },
+        { "label": "Careers", "url": "#" },
+        { "label": "Brand Center", "url": "#" },
+        { "label": "Blog", "url": "#" }
+      ]
+    },
+    {
+      "title": "Help center",
+      "links": [
+        { "label": "Discord Server", "url": "#" },
+        { "label": "Twitter", "url": "#" },
+        { "label": "Facebook", "url": "#" },
+        { "label": "Contact Us", "url": "#" }
+      ]
+    },
+    {
+      "title": "Legal",
+      "links": [
+        { "label": "Privacy Policy", "url": "#" },
+        { "label": "Licensing", "url": "#" },
+        { "label": "Terms", "url": "#" }
+      ]
+    },
+    {
+      "title": "Company",
+      "links": [
+        { "label": "About", "url": "#" },
+        { "label": "Careers", "url": "#" },
+        { "label": "Brand Center", "url": "#" },
+        { "label": "Blog", "url": "#" }
+      ]
+    },
+    {
+      "title": "Download",
+      "links": [
+        { "label": "iOS", "url": "#" },
+        { "label": "Android", "url": "#" },
+        { "label": "Windows", "url": "#" },
+        { "label": "MacOS", "url": "#" }
+      ]
+    }
+  ]
