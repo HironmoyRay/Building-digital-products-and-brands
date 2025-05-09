@@ -12,7 +12,7 @@ export default function SubFooter2() {
         className="flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white"
       >
         <img
-          src="./src/assets/logo.svg"
+          src="./logo.svg"
           className="h-6 mr-3 sm:h-9"
           alt="Learn with Sumit Logo"
         />

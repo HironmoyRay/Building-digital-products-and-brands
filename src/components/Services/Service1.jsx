@@ -11,7 +11,7 @@ export default function Service1() {
             <SubService data={service1[0]} />
             <img
               className="hidden w-full mb-4 rounded-lg lg:mb-0 lg:flex"
-              src="./src/assets/features/feature-1.png"
+              src="./features/feature-1.png"
               alt="dashboard feature image"
             />
           </div>
@@ -20,7 +20,7 @@ export default function Service1() {
           <div className="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
             <img
               className="hidden w-full mb-4 rounded-lg lg:mb-0 lg:flex"
-              src="./src/assets/features/feature-2.png"
+              src="./features/feature-2.png"
               alt="feature image 2"
             />
             <SubService data={service1[1]} />

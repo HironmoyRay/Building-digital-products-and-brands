@@ -16,7 +16,7 @@ export default function Testimonial() {
           <figcaption className="flex items-center justify-center mt-6 space-x-3">
             <img
               className="w-6 h-6 rounded-full"
-              src="./src/assets/avatar/michael-gouch.png"
+              src="./avatar/michael-gouch.png"
               alt="profile picture"
             />
             <div className="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700">
